@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkDLFgRmbjCZo9KjrHozE3gTlX9gXOjOe1QLyKUACX/D8ZEw/N2PC2zqAcEAiGI49tQStWwnHsHTL1ZCrIMWEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fatinabimanyu\\source\\repos\\Responsi\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatinabimanyu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\fatinabimanyu\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\fatinabimanyu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
